@@ -5,15 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f690ebf7-5c0d-4a1f-a15c-a4bafd4b936a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/capital_letter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cece.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count_even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semicolon_africa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swapping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_cece.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_count_even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_swapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagbajaschool/capitals_delimited.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagbajaschool/self_practice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagbajaschool/self_practice/gtb_bank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loanContract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/separated_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/television.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_capital_delimited.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_email_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_loan_contract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_seprated_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_television.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagbaja school/first task.py" beforeDir="false" afterPath="$PROJECT_DIR$/lagbajaschool/first task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagbaja school/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/lagbajaschool/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagbaja school/student grade.py" beforeDir="false" afterPath="$PROJECT_DIR$/lagbajaschool/student grade.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +48,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_capital_delimited.TestCapitalized.executor": "Run",
+    "Python tests.Python tests for test_capital_delimited.TestCapitalized.test_the_functionality.executor": "Run",
     "Python tests.Python tests for test_cece.TestCapitalLetter.executor": "Run",
     "Python tests.Python tests for test_cece.TestCountSemicolon.executor": "Run",
     "Python tests.Python tests for test_cece.TestSemicolon.executor": "Run",
@@ -48,16 +57,51 @@
     "Python tests.Python tests for test_cece.TestSwapping.executor": "Run",
     "Python tests.Python tests for test_classtask.TestCount.executor": "Run",
     "Python tests.Python tests for test_count_even_odd.TestCountEvenOdd.executor": "Run",
+    "Python tests.Python tests for test_delimited.TestCapitalized.executor": "Run",
+    "Python tests.Python tests for test_delimited.TestCapitalized.test_the_functionality.executor": "Run",
+    "Python tests.Python tests for test_email_address.TestEmailAddress.executor": "Run",
+    "Python tests.Python tests for test_email_address.TestEmailAddress.test_that_the_function_exists.executor": "Run",
+    "Python tests.Python tests for test_email_address.TestEmailAddress.test_that_validate_email_address.executor": "Run",
+    "Python tests.Python tests for test_email_address.TestEmailAddress.test_that_validate_email_address_without_one.executor": "Run",
+    "Python tests.Python tests for test_email_address.TestEmailAddress.test_the_functionality.executor": "Run",
+    "Python tests.Python tests for test_loan_contract.TestForLoanContract.executor": "Run",
+    "Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_function_exist.executor": "Run",
+    "Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_loancontract_is_active.executor": "Run",
+    "Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_monthly_payment_has_being_recieved.executor": "Run",
+    "Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_agreement.executor": "Run",
+    "Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_data_properties.executor": "Run",
+    "Python tests.Python tests for test_seprated_numbers.TestGeneratingNumbers.executor": "Run",
+    "Python tests.Python tests for test_seprated_numbers.TestGeneratingNumbers.test_that_the_function_works_2.executor": "Run",
+    "Python tests.Python tests for test_seprated_numbers.TestGeneratingNumbers.test_the_function_works.executor": "Run",
+    "Python tests.Python tests for test_seprated_numbers.TestGeneratingNumbers.test_the_function_works_2.executor": "Run",
+    "Python tests.Python tests for test_seprated_numbers.TestThatGenerateNumbers.executor": "Run",
+    "Python tests.Python tests for test_seprated_numbers.TestThatGenerateNumbers.test_the_function_works_2.executor": "Run",
     "Python tests.Python tests for test_swapping.TestSwapping.executor": "Run",
     "Python tests.Python tests for test_swapping.TestSwapping.test_that_the_swap_the_characters.executor": "Run",
     "Python tests.Python tests for test_swapping.TestSwapping.test_that_the_swap_the_chatacters.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_channel_down.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_channel_up.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_get_channel.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_get_channels.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_get_volume.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_set_channel.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_set_volume.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_volume_down.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_volume_up.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_tv_can_be_turn_off.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_tv_can_be_turn_on.executor": "Run",
     "Python tests.Python tests in test Account.py.executor": "Run",
+    "Python tests.Python tests in test_delimited.py.executor": "Run",
     "Python.classAccountPractice.executor": "Run",
     "Python.class_task (1).executor": "Run",
     "Python.class_task.executor": "Run",
     "Python.first task.executor": "Run",
+    "Python.gtb_bank.executor": "Run",
+    "Python.loanContract.executor": "Run",
     "Python.practice.executor": "Run",
     "Python.semicolon_africa.executor": "Run",
+    "Python.separated_numbers.executor": "Run",
     "Python.student grade.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -67,6 +111,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,8 +123,8 @@
       <recent name="C:\Users\DELL USER\PycharmProjects\first project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.semicolon_africa">
-    <configuration name="semicolon_africa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_monthly_payment_has_being_recieved">
+    <configuration name="loanContract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="first project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +138,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/semicolon_africa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loanContract.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_cece.TestCountSemicolon" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_loan_contract.TestForLoanContract" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="first project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,11 +159,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_cece.TestCountSemicolon&quot;" />
+      <option name="_new_target" value="&quot;test_loan_contract.TestForLoanContract&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_cece.TestSemicolon" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_loan_contract.TestForLoanContract.test_that_the_monthly_payment_has_being_recieved" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="first project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,11 +175,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_cece.TestSemicolon&quot;" />
+      <option name="_new_target" value="&quot;test_loan_contract.TestForLoanContract.test_that_the_monthly_payment_has_being_recieved&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_cece.TestSemicolon.test_that_the_functionality" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_agreement" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="first project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,11 +191,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_cece.TestSemicolon.test_that_the_functionality&quot;" />
+      <option name="_new_target" value="&quot;test_loan_contract.TestForLoanContract.test_that_the_there_is_agreement&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_count_even_odd.TestCountEvenOdd" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_data_properties" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="first project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,17 +207,17 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_count_even_odd.TestCountEvenOdd&quot;" />
+      <option name="_new_target" value="&quot;test_loan_contract.TestForLoanContract.test_that_the_there_is_data_properties&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.semicolon_africa" />
-        <item itemvalue="Python tests.Python tests for test_count_even_odd.TestCountEvenOdd" />
-        <item itemvalue="Python tests.Python tests for test_cece.TestSemicolon" />
-        <item itemvalue="Python tests.Python tests for test_cece.TestSemicolon.test_that_the_functionality" />
-        <item itemvalue="Python tests.Python tests for test_cece.TestCountSemicolon" />
+        <item itemvalue="Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_monthly_payment_has_being_recieved" />
+        <item itemvalue="Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_data_properties" />
+        <item itemvalue="Python tests.Python tests for test_loan_contract.TestForLoanContract" />
+        <item itemvalue="Python.loanContract" />
+        <item itemvalue="Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_agreement" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +241,16 @@
       <workItem from="1724169894511" duration="259000" />
       <workItem from="1724363202341" duration="8358000" />
       <workItem from="1725616308863" duration="8778000" />
-      <workItem from="1725875990939" duration="19948000" />
+      <workItem from="1725875990939" duration="21476000" />
+      <workItem from="1726134815207" duration="8049000" />
+      <workItem from="1726367654177" duration="9631000" />
+      <workItem from="1726588467354" duration="201000" />
+      <workItem from="1726629745918" duration="4330000" />
+      <workItem from="1726650442656" duration="2414000" />
+      <workItem from="1726666021826" duration="4250000" />
+      <workItem from="1727951017943" duration="8964000" />
+      <workItem from="1728256587048" duration="8730000" />
+      <workItem from="1728288153249" duration="3691000" />
     </task>
     <servers />
   </component>
@@ -216,6 +270,21 @@
           <line>5</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_seprated_numbers.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_seprated_numbers.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_seprated_numbers.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -224,9 +293,12 @@
     <SUITE FILE_PATH="coverage/first_project$student_grade.coverage" NAME="student grade Coverage Results" MODIFIED="1724390849091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lagbaja school" />
     <SUITE FILE_PATH="coverage/first_project$first_task.coverage" NAME="first task Coverage Results" MODIFIED="1724162326684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/first_project$class_task__1_.coverage" NAME="class_task (1) Coverage Results" MODIFIED="1725622407480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/first_project$.coverage" NAME=" Coverage Results" MODIFIED="1726044759737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/first_project$semicolon_africa.coverage" NAME="semicolon_africa Coverage Results" MODIFIED="1726055561063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/first_project$.coverage" NAME=" Coverage Results" MODIFIED="1728305660622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/first_project$gtb_bank.coverage" NAME="gtb_bank Coverage Results" MODIFIED="1726588617200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lagbaja school/self_practice" />
+    <SUITE FILE_PATH="coverage/first_project$separated_numbers.coverage" NAME="separated_numbers Coverage Results" MODIFIED="1726651508470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/first_project$classAccountPractice.coverage" NAME="classAccountPractice Coverage Results" MODIFIED="1724364960429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/first_project$class_task.coverage" NAME="class_task Coverage Results" MODIFIED="1725620959946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classpractice2" />
+    <SUITE FILE_PATH="coverage/first_project$loanContract.coverage" NAME="loanContract Coverage Results" MODIFIED="1728265217394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

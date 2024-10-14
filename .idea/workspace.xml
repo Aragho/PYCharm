@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f690ebf7-5c0d-4a1f-a15c-a4bafd4b936a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/set/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/my_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Stack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Stack/test_my_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/set/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/set/test_set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,75 +37,97 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_capital_delimited.TestCapitalized.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_capital_delimited.TestCapitalized.test_the_functionality.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_cece.TestCapitalLetter.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_cece.TestCountSemicolon.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_cece.TestSemicolon.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_cece.TestSemicolon.test_that_the_functionality.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_cece.TestSwapping.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_classtask.TestCount.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_count_even_odd.TestCountEvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_delimited.TestCapitalized.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_delimited.TestCapitalized.test_the_functionality.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_email_address.TestEmailAddress.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_email_address.TestEmailAddress.test_that_the_function_exists.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_email_address.TestEmailAddress.test_that_validate_email_address.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_email_address.TestEmailAddress.test_that_validate_email_address_without_one.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_email_address.TestEmailAddress.test_the_functionality.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_loan_contract.TestForLoanContract.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_function_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_loancontract_is_active.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_monthly_payment_has_being_recieved.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_agreement.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_data_properties.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_seprated_numbers.TestGeneratingNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_seprated_numbers.TestGeneratingNumbers.test_that_the_function_works_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_seprated_numbers.TestGeneratingNumbers.test_the_function_works.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_seprated_numbers.TestGeneratingNumbers.test_the_function_works_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_seprated_numbers.TestThatGenerateNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_seprated_numbers.TestThatGenerateNumbers.test_the_function_works_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_swapping.TestSwapping.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_swapping.TestSwapping.test_that_the_swap_the_characters.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_swapping.TestSwapping.test_that_the_swap_the_chatacters.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_television.TestForTelevision.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_channel_down.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_channel_up.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_get_channel.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_get_channels.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_get_volume.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_set_channel.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_set_volume.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_volume_down.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_volume_up.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_television.TestForTelevision.test_that_tv_can_be_turn_off.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_television.TestForTelevision.test_that_tv_can_be_turn_on.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test Account.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_delimited.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.classAccountPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class_task (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.class_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gtb_bank.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loanContract.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.semicolon_africa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.separated_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.student grade.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL USER/PycharmProjects/first project/lagbaja school&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_capital_delimited.TestCapitalized.executor": "Run",
+    "Python tests.Python tests for test_capital_delimited.TestCapitalized.test_the_functionality.executor": "Run",
+    "Python tests.Python tests for test_cece.TestCapitalLetter.executor": "Run",
+    "Python tests.Python tests for test_cece.TestCountSemicolon.executor": "Run",
+    "Python tests.Python tests for test_cece.TestSemicolon.executor": "Run",
+    "Python tests.Python tests for test_cece.TestSemicolon.test_that_the_functionality.executor": "Run",
+    "Python tests.Python tests for test_cece.TestSwapping.executor": "Run",
+    "Python tests.Python tests for test_classtask.TestCount.executor": "Run",
+    "Python tests.Python tests for test_count_even_odd.TestCountEvenOdd.executor": "Run",
+    "Python tests.Python tests for test_delimited.TestCapitalized.executor": "Run",
+    "Python tests.Python tests for test_delimited.TestCapitalized.test_the_functionality.executor": "Run",
+    "Python tests.Python tests for test_email_address.TestEmailAddress.executor": "Run",
+    "Python tests.Python tests for test_email_address.TestEmailAddress.test_that_the_function_exists.executor": "Run",
+    "Python tests.Python tests for test_email_address.TestEmailAddress.test_that_validate_email_address.executor": "Run",
+    "Python tests.Python tests for test_email_address.TestEmailAddress.test_that_validate_email_address_without_one.executor": "Run",
+    "Python tests.Python tests for test_email_address.TestEmailAddress.test_the_functionality.executor": "Run",
+    "Python tests.Python tests for test_loan_contract.TestForLoanContract.executor": "Run",
+    "Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_function_exist.executor": "Run",
+    "Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_loancontract_is_active.executor": "Run",
+    "Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_monthly_payment_has_being_recieved.executor": "Run",
+    "Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_agreement.executor": "Run",
+    "Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_data_properties.executor": "Run",
+    "Python tests.Python tests for test_my_stack.TestStack.executor": "Run",
+    "Python tests.Python tests for test_my_stack.TestStack.test_peek.executor": "Run",
+    "Python tests.Python tests for test_my_stack.TestStack.test_pop.executor": "Run",
+    "Python tests.Python tests for test_my_stack.TestStack.test_pop_when_empty_raises_exception.executor": "Run",
+    "Python tests.Python tests for test_my_stack.TestStack.test_search.executor": "Run",
+    "Python tests.Python tests for test_my_stack.TestStack.test_size.executor": "Run",
+    "Python tests.Python tests for test_my_stack.TestStack.test_stack_overflow.executor": "Run",
+    "Python tests.Python tests for test_my_stack.TestStack.test_that_is_empty.executor": "Run",
+    "Python tests.Python tests for test_my_stack.TestStack.test_the_size.executor": "Run",
+    "Python tests.Python tests for test_seprated_numbers.TestGeneratingNumbers.executor": "Run",
+    "Python tests.Python tests for test_seprated_numbers.TestGeneratingNumbers.test_that_the_function_works_2.executor": "Run",
+    "Python tests.Python tests for test_seprated_numbers.TestGeneratingNumbers.test_the_function_works.executor": "Run",
+    "Python tests.Python tests for test_seprated_numbers.TestGeneratingNumbers.test_the_function_works_2.executor": "Run",
+    "Python tests.Python tests for test_seprated_numbers.TestThatGenerateNumbers.executor": "Run",
+    "Python tests.Python tests for test_seprated_numbers.TestThatGenerateNumbers.test_the_function_works_2.executor": "Run",
+    "Python tests.Python tests for test_set.TestSet.executor": "Run",
+    "Python tests.Python tests for test_set.TestSet.test_add_duplicate_element_size_remains_unchanged.executor": "Run",
+    "Python tests.Python tests for test_set.TestSet.test_contains_element_throws_exception.executor": "Run",
+    "Python tests.Python tests for test_set.TestSet.test_is_empty.executor": "Run",
+    "Python tests.Python tests for test_set.TestSet.test_remove_element_throws_exception.executor": "Run",
+    "Python tests.Python tests for test_set.TestSet.test_that_add_all_elements_to_set.executor": "Run",
+    "Python tests.Python tests for test_set.TestSet.test_that_add_an_element_to_set.executor": "Run",
+    "Python tests.Python tests for test_set.TestSet.test_that_clear_all_elements_from_set.executor": "Run",
+    "Python tests.Python tests for test_set.TestSet.test_that_remove_an_element_from_set.executor": "Run",
+    "Python tests.Python tests for test_stack.Stack.TestStack.executor": "Run",
+    "Python tests.Python tests for test_stack.Stack.TestStack.test_push.executor": "Run",
+    "Python tests.Python tests for test_stack.TestStack.executor": "Run",
+    "Python tests.Python tests for test_stack.TestStack.test_push.executor": "Run",
+    "Python tests.Python tests for test_swapping.TestSwapping.executor": "Run",
+    "Python tests.Python tests for test_swapping.TestSwapping.test_that_the_swap_the_characters.executor": "Run",
+    "Python tests.Python tests for test_swapping.TestSwapping.test_that_the_swap_the_chatacters.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_channel_down.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_channel_up.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_get_channel.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_get_channels.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_get_volume.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_set_channel.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_set_volume.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_volume_down.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_the_tv_can_volume_up.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_tv_can_be_turn_off.executor": "Run",
+    "Python tests.Python tests for test_television.TestForTelevision.test_that_tv_can_be_turn_on.executor": "Run",
+    "Python tests.Python tests in test Account.py.executor": "Run",
+    "Python tests.Python tests in test_delimited.py.executor": "Run",
+    "Python.classAccountPractice.executor": "Run",
+    "Python.class_task (1).executor": "Run",
+    "Python.class_task.executor": "Run",
+    "Python.first task.executor": "Run",
+    "Python.gtb_bank.executor": "Run",
+    "Python.loanContract.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.semicolon_africa.executor": "Run",
+    "Python.separated_numbers.executor": "Run",
+    "Python.student grade.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/DELL USER/PycharmProjects/first project/lagbaja school",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DELL USER\PycharmProjects\first project\lagbaja school" />
@@ -108,101 +136,94 @@
       <recent name="C:\Users\DELL USER\PycharmProjects\first project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_monthly_payment_has_being_recieved">
-    <configuration name="loanContract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="first project" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loanContract.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_loan_contract.TestForLoanContract" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_my_stack.TestStack.test_stack_overflow">
+    <configuration name="Python tests for test_my_stack.TestStack" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="first project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/Stack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_loan_contract.TestForLoanContract&quot;" />
+      <option name="_new_target" value="&quot;test_my_stack.TestStack&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_loan_contract.TestForLoanContract.test_that_the_monthly_payment_has_being_recieved" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_my_stack.TestStack.test_search" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="first project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/Stack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_loan_contract.TestForLoanContract.test_that_the_monthly_payment_has_being_recieved&quot;" />
+      <option name="_new_target" value="&quot;test_my_stack.TestStack.test_search&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_agreement" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_my_stack.TestStack.test_size" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="first project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/Stack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_loan_contract.TestForLoanContract.test_that_the_there_is_agreement&quot;" />
+      <option name="_new_target" value="&quot;test_my_stack.TestStack.test_size&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_data_properties" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_my_stack.TestStack.test_stack_overflow" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="first project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/Stack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_loan_contract.TestForLoanContract.test_that_the_there_is_data_properties&quot;" />
+      <option name="_new_target" value="&quot;test_my_stack.TestStack.test_stack_overflow&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_set.TestSet" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="first project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/set" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_set.TestSet&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_monthly_payment_has_being_recieved" />
-        <item itemvalue="Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_data_properties" />
-        <item itemvalue="Python tests.Python tests for test_loan_contract.TestForLoanContract" />
-        <item itemvalue="Python.loanContract" />
-        <item itemvalue="Python tests.Python tests for test_loan_contract.TestForLoanContract.test_that_the_there_is_agreement" />
+        <item itemvalue="Python tests.Python tests for test_my_stack.TestStack.test_stack_overflow" />
+        <item itemvalue="Python tests.Python tests for test_my_stack.TestStack.test_search" />
+        <item itemvalue="Python tests.Python tests for test_my_stack.TestStack.test_size" />
+        <item itemvalue="Python tests.Python tests for test_my_stack.TestStack" />
+        <item itemvalue="Python tests.Python tests for test_set.TestSet" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +259,8 @@
       <workItem from="1728288153249" duration="4439000" />
       <workItem from="1728462247980" duration="7000" />
       <workItem from="1728553204750" duration="252000" />
+      <workItem from="1728851840843" duration="7307000" />
+      <workItem from="1728859242826" duration="4406000" />
     </task>
     <servers />
   </component>
@@ -281,7 +304,7 @@
     <SUITE FILE_PATH="coverage/first_project$first_task.coverage" NAME="first task Coverage Results" MODIFIED="1724162326684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/first_project$class_task__1_.coverage" NAME="class_task (1) Coverage Results" MODIFIED="1725622407480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/first_project$semicolon_africa.coverage" NAME="semicolon_africa Coverage Results" MODIFIED="1726055561063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/first_project$.coverage" NAME=" Coverage Results" MODIFIED="1728305660622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/first_project$.coverage" NAME=" Coverage Results" MODIFIED="1728873425085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/Stack" />
     <SUITE FILE_PATH="coverage/first_project$gtb_bank.coverage" NAME="gtb_bank Coverage Results" MODIFIED="1726588617200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lagbaja school/self_practice" />
     <SUITE FILE_PATH="coverage/first_project$separated_numbers.coverage" NAME="separated_numbers Coverage Results" MODIFIED="1726651508470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/first_project$classAccountPractice.coverage" NAME="classAccountPractice Coverage Results" MODIFIED="1724364960429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
